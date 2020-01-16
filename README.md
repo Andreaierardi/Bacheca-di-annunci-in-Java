@@ -1,4 +1,2 @@
-# Bacheca di annunci in Java
-Bacheca di annunci in linguaggio Java
-
-Progetto per il corso in Programmazione ad Oggetti del Cdl triennale in Informatica
+# Bulletin board in Java language
+Exercises for the course "Programmazione ad Oggetti" during my Bachelor's degree in Computer Science
